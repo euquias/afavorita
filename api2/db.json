@@ -2,12 +2,13 @@
   "produto": [
     {
       "id": 1,
-      "nome": "Euquias",
+      "nome": "Euquias cabuloso",
       "sabor": "pizza Calabresa",
-      "bebida": "coca",
+      "bebida": "coca e fanta",
       "endereco": "mesquita",
       "forma de pagamento": "cartão",
-      "valor": 28
+      "valor": 28,
+      "formadepagamento": "cartão"
     },
     {
       "id": 2,
@@ -152,6 +153,78 @@
       "formadepagamento": "asdfdsf",
       "valor": "434343434",
       "id": 17
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 18
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 19
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 20
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 21
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 22
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 23
+    },
+    {
+      "nome": "euquias",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "mesquita",
+      "formadepagamento": "debito",
+      "valor": "343434",
+      "id": 24
+    },
+    {
+      "nome": "Domingos",
+      "sabor": "calabresa",
+      "bebida": "coca",
+      "endereco": "seilandia",
+      "formadepagamento": "credito",
+      "valor": "39399393939",
+      "id": 25
     }
   ]
 }
