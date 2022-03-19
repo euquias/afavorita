@@ -1,25 +1,6 @@
 {
   "produto": [
     {
-      "id": 1,
-      "nome": "Euquias cabuloso",
-      "sabor": "pizza Calabresa",
-      "bebida": "coca e fanta",
-      "endereco": "mesquita",
-      "forma de pagamento": "cartão",
-      "valor": 28,
-      "formadepagamento": "cartão"
-    },
-    {
-      "id": 2,
-      "nome": "Luana",
-      "sabor": "pizza banana",
-      "bebida": "coca",
-      "endereco": "valparaisa",
-      "forma de pagamento": "dinheiro",
-      "valor": 50
-    },
-    {
       "nome": "Euquias Araujo",
       "sabor": "calabresa",
       "bebida": "coca",
@@ -36,15 +17,6 @@
       "formadepagamento": "",
       "valor": "",
       "id": 4
-    },
-    {
-      "nome": "luana",
-      "sabor": "calabresa",
-      "bebida": "coca",
-      "endereco": "",
-      "formadepagamento": "",
-      "valor": "",
-      "id": 5
     },
     {
       "nome": "euquias",
@@ -188,15 +160,6 @@
       "endereco": "mesquita",
       "formadepagamento": "debito",
       "valor": "343434",
-      "id": 21
-    },
-    {
-      "nome": "euquias",
-      "sabor": "calabresa",
-      "bebida": "coca",
-      "endereco": "mesquita",
-      "formadepagamento": "debito",
-      "valor": "343434",
       "id": 22
     },
     {
@@ -206,25 +169,7 @@
       "endereco": "mesquita",
       "formadepagamento": "debito",
       "valor": "343434",
-      "id": 23
-    },
-    {
-      "nome": "euquias",
-      "sabor": "calabresa",
-      "bebida": "coca",
-      "endereco": "mesquita",
-      "formadepagamento": "debito",
-      "valor": "343434",
       "id": 24
-    },
-    {
-      "nome": "Domingos",
-      "sabor": "calabresa",
-      "bebida": "coca",
-      "endereco": "seilandia",
-      "formadepagamento": "credito",
-      "valor": "39399393939",
-      "id": 25
     }
   ]
 }
